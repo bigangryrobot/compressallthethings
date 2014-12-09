@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>BitMiracle.Docotic.Pdf.Beta</id>
+    <version>4.4.6650.0</version>
+    <title>Docotic.Pdf library (Beta channel)</title>
+    <authors>Bit Miracle</authors>
+    <owners>Bit Miracle</owners>
+    <licenseUrl>http://bitmiracle.com/pdf-library/help/license-agreement.aspx</licenseUrl>
+    <projectUrl>http://bitmiracle.com/pdf-library/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is the Beta version of Docotic.Pdf library.
+		
+		Beta version contains newest features and latest bug fixes. This version is tested for regressions and is safe to be used in production environment.
+		
+		Release version can be found here: https://www.nuget.org/packages/BitMiracle.Docotic.Pdf/.
+		
+		Docotic.Pdf library can create, edit, draw and print PDF files.
+
+The library is a fully managed assembly for .NET 2.0 and later frameworks. The assembly has no external dependencies.
+
+There are different types of licenses: for applications, for servers, cloud and unlimited. All licenses are royalty-free. 
+
+Free time-limited licenses are available upon request.</description>
+    <summary>This is the Beta version of Docotic.Pdf library (https://www.nuget.org/packages/BitMiracle.Docotic.Pdf/).
+		Beta version contains newest features and latest bug fixes. This version is tested for regressions and is safe to be used in production environment.</summary>
+    <copyright>Copyright (C) 2008-2014, Bit Miracle</copyright>
+    <tags>PDF Library Editor Viewer PDF/A Print pdf-generation pdf-library .net20 pdf2text pdf2image Forms BitMiracle Bit Miracle</tags>
+  </metadata>
+</package>

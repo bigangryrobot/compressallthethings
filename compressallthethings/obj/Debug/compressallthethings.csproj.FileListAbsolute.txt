@@ -1,0 +1,10 @@
+C:\Users\cbeverlin\Source\Repos\Git_Project\compressallthethings\compressallthethings\bin\Debug\compressallthethings.exe.config
+C:\Users\cbeverlin\Source\Repos\Git_Project\compressallthethings\compressallthethings\bin\Debug\compressallthethings.exe
+C:\Users\cbeverlin\Source\Repos\Git_Project\compressallthethings\compressallthethings\bin\Debug\compressallthethings.pdb
+C:\Users\cbeverlin\Source\Repos\Git_Project\compressallthethings\compressallthethings\obj\Debug\compressallthethings.csprojResolveAssemblyReference.cache
+C:\Users\cbeverlin\Source\Repos\Git_Project\compressallthethings\compressallthethings\obj\Debug\compressallthethings.exe
+C:\Users\cbeverlin\Source\Repos\Git_Project\compressallthethings\compressallthethings\obj\Debug\compressallthethings.pdb
+C:\Users\cbeverlin\Source\Repos\Git_Project\compressallthethings\compressallthethings\bin\Debug\BitMiracle.Docotic.Pdf.dll
+C:\Users\cbeverlin\Source\Repos\Git_Project\compressallthethings\compressallthethings\bin\Debug\BitMiracle.Docotic.Pdf.xml
+C:\Users\cbeverlin\Source\Repos\Git_Project\compressallthethings\compressallthethings\bin\Debug\ImageResizer.dll
+C:\Users\cbeverlin\Source\Repos\Git_Project\compressallthethings\compressallthethings\bin\Debug\ImageResizer.xml
